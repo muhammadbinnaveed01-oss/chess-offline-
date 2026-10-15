@@ -1,0 +1,6 @@
+{
+  "name": "Classic 2D Chess Offline",
+  "description": "Play offline 2D chess with tournament board design, complete chess rules, AI opponent or 2-player pass and play, sound effects, and mobile-friendly touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
