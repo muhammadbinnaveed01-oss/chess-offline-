@@ -1,0 +1,1 @@
+this is a smple project it main purpose was to make a simplest game and the game that can load faster and can be run on ever device ever exist as most of people in pakistan have no money to buy a new mobile this will help them 
