@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/chess-offline-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
